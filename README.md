@@ -5,12 +5,9 @@ This project is a cryptocurrency tracking application that displays real-time da
 
 Technologies Used:
 
-React.js: Front-end framework for building the user interface.
-Axios: For making API requests to fetch cryptocurrency data.
-CSS: Custom styling with a neon green and black theme.
-Coinlore API: Data source for real-time cryptocurrency details.
-Features:
+React.js, Axios, CSS, Coinlore API
 
+Features:
 Real-time cryptocurrency data fetching.
 Search functionality for filtering cryptocurrencies.
 Responsive design for desktop and mobile views.
