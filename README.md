@@ -8,6 +8,7 @@ Technologies Used:
 React.js, Axios, CSS, Coinlore API
 
 Features:
+
 Real-time cryptocurrency data fetching.
 Search functionality for filtering cryptocurrencies.
 Responsive design for desktop and mobile views.
