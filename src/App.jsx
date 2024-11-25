@@ -11,7 +11,6 @@ function App() {
         const response = await axios.get(
           "https://api.coinlore.net/api/tickers/"
         );
-        console.log(response);
         setCrypto(response.data.data);
       } catch (error) {
         console.error("Error fetching data:", error);
