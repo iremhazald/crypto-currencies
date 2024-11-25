@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <h1> 💸 All Cryptocurrencies 💸</h1>
+        <h1> 💸 Cryptocurrencies 💸</h1>
         <div className="searchBox">
           {" "}
           <input
